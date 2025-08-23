@@ -4,6 +4,13 @@ This project is a React Native + TypeScript application built to satisfy the req
 
 ## 🚀 Setup & Run Instructions
 
+npx expo install @react-navigation/drawer @react-navigation/native @react-navigation/stack react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context react-native-gifted-charts react-native-svg @react-native-picker/picker expo-linear-gradient
+
+npm install -g eas-cli
+eas login
+eas build:configure
+eas build --platform android
+
 **Prerequisites:**
 
 - Node.js (LTS version)
