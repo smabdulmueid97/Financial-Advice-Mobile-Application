@@ -1,4 +1,4 @@
-# Lattice Mobile Developer Assessment
+# Financial-Advice-Mobile-Application
 
 This project is a React Native + TypeScript application built to satisfy the requirements of the Lattice Mobile Developer Assessment. It features an AI Conversation page and a Dashboard page with widget management, all designed with a mobile-first approach.
 
