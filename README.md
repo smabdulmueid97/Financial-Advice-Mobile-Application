@@ -118,4 +118,4 @@ src/                            # chat, dashboard, components, screens, context,
 
 ## License
 
-No `LICENSE` file in this repo yet — add one to set the terms.
+This project is licensed under the MIT License — see the LICENSE file.
